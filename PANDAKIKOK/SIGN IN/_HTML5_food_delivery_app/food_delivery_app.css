@@ -1,0 +1,510 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__sign_in {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 891px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 892px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#password {
+	top: 609.58px;
+	left: 83px;
+	width: 102px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#rectangle {
+	opacity:0;
+	top: 508.15px;
+	left: 35px;
+	width: 345px;
+	height: 56.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_ek1 {
+	top: 695.1px;
+	left: 27px;
+	width: 343px;
+	height: 54.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#sign_in {
+	top: 709.02px;
+	left: 165px;
+	width: 92px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#sign_in_ek1 {
+	top: 421.63px;
+	left: 75px;
+	width: 273px;
+	height: 67.74px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_1 {
+	top: 102.43px !important;
+	position: absolute !important;
+	left: 43px;
+	width: 327px;
+	height: 188.94px;
+	background:url(skins/_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_1.png);
+	background-size:cover;
+}
+
+
+#pandakikok {
+	top: 315.23px;
+	left: 101px;
+	width: 223px;
+	height: 63.77px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+
+#we_won_t_keep_you_waiting_for_long_ {
+	top: 356px;
+	left: 94px;
+	width: 234px;
+	height: 28.89px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+
+#_02__ui_elements_1__home_indicator_home_indicator___on_black {
+	top: 857.19px;
+	left: 19px;
+	width: 375px;
+	height: 34.72px;
+}
+#bars___home_indicator___on_light {
+	top: 20.42px;
+	left: 121px;
+	width: 134px;
+	height: 5.11px;
+}
+
+#home_indicator {
+	top: 0px;
+	left: 0px;
+	width: 134px;
+	height: 5px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+
+#rectangle_ek2 {
+	opacity:0;
+	top: 595.66px;
+	left: 34px;
+	width: 345px;
+	height: 56.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#username {
+	top: 524.06px;
+	left: 83px;
+	width: 109px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#shape {
+	top: 524.06px !important;
+	position: absolute !important;
+	left: 55px;
+	width: 22px;
+	height: 23.87px;
+	background:url(skins/shape.png);
+	background-size:cover;
+}
+
+#lock {
+	top: 615px;
+	left: 53px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 4px;
+	width: 16px;
+	height: 21px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+
+#vector_ek2 {
+	top: 618.53px !important;
+	position: absolute !important;
+	left: 343px;
+	width: 22px;
+	height: 14.92px;
+	background:url(skins/vector_ek2.png);
+	background-size:cover;
+}
+
+
+#password_ek1 {
+	top: 609.58px;
+	left: 83px;
+	width: 102px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#rectangle_ek3 {
+	opacity:0;
+	top: 508.15px;
+	left: 35px;
+	width: 345px;
+	height: 56.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#_rectangle_ek4 {
+	top: 690px;
+	left: 27px;
+	width: 343px;
+	height: 54.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#sign_in_ek2 {
+	top: 709.02px;
+	left: 165px;
+	width: 92px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_2 {
+	top: 102.43px !important;
+	position: absolute !important;
+	left: 43px;
+	width: 327px;
+	height: 188.94px;
+	background:url(skins/_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_2.png);
+	background-size:cover;
+}
+
+
+#pandakikok_ek1 {
+	top: 315.23px;
+	left: 101px;
+	width: 223px;
+	height: 63.77px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+
+#we_won_t_keep_you_waiting_for_long__ek1 {
+	top: 356px;
+	left: 94px;
+	width: 234px;
+	height: 28.89px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+
+#_02__ui_elements_1__home_indicator_home_indicator___on_black_ek1 {
+	top: 857.19px;
+	left: 19px;
+	width: 375px;
+	height: 34.72px;
+}
+#bars___home_indicator___on_light_ek1 {
+	top: 20.42px;
+	left: 121px;
+	width: 134px;
+	height: 5.11px;
+}
+
+#home_indicator_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 134px;
+	height: 5px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+
+#rectangle_ek5 {
+	opacity:0;
+	top: 595.66px;
+	left: 34px;
+	width: 345px;
+	height: 56.69px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#username_ek1 {
+	top: 524.06px;
+	left: 83px;
+	width: 109px;
+	height: 40.85px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#shape_ek1 {
+	top: 524.06px !important;
+	position: absolute !important;
+	left: 55px;
+	width: 22px;
+	height: 23.87px;
+	background:url(skins/shape_ek1.png);
+	background-size:cover;
+}
+
+#lock_ek1 {
+	top: 615px;
+	left: 53px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek3 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:url(skins/vector_ek3.png);
+	background-size:cover;
+}
+
+
+#vector_ek4 {
+	top: 1px !important;
+	position: absolute !important;
+	left: 4px;
+	width: 16px;
+	height: 21px;
+	background:url(skins/vector_ek4.png);
+	background-size:cover;
+}
+
+
+#vector_ek5 {
+	top: 618.53px !important;
+	position: absolute !important;
+	left: 343px;
+	width: 22px;
+	height: 14.92px;
+	background:url(skins/vector_ek5.png);
+	background-size:cover;
+}
+
+#remove_red_eye {
+	top: 666px;
+	left: 339px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek6 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+	background:url(skins/vector_ek6.png);
+	background-size:cover;
+}
+
+
+#vector_ek7 {
+	top: 4.5px !important;
+	position: absolute !important;
+	left: 1px;
+	width: 22px;
+	height: 15px;
+	background:url(skins/vector_ek7.png);
+	background-size:cover;
+}
+
+
+#_rectangle_ek6 {
+	top: 776px;
+	left: 27px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(13.4,157.49,189.13,1);
+}
+
+
+#sign_up {
+	top: 790px;
+	left: 162px;
+	width: 97px;
+	height: 40.88px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

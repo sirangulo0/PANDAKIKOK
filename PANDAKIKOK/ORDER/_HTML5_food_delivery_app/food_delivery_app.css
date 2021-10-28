@@ -1,0 +1,530 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__order {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 896px;
+	background:#;
+}
+
+
+#rectangle_4 {
+	top: 3px;
+	left: 0px;
+	width: 414px;
+	height: 889.47px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#cannelloni_with_basil_tomato_sauce_2_2 {
+	top: 287px;
+	left: 30px;
+	width: 161px;
+	height: 105px;
+}
+
+
+#orders {
+	top: 55px;
+	left: 147px;
+	width: 140px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#FF490F;
+}
+
+#remove_circle_outline {
+	top: 364px;
+	left: 279px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#vector_ek1 {
+	top: 2px;
+	left: 2px;
+	width: 20px;
+	height: 20px;
+}
+
+#add_circle_outline {
+	top: 364px;
+	left: 340px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#vector_ek3 {
+	top: 2px;
+	left: 2px;
+	width: 20px;
+	height: 20px;
+}
+
+
+#italian_spaghetti {
+	top: 292px;
+	left: 205px;
+	width: 163px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1 {
+	top: 362px;
+	left: 316px;
+	width: 29px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__300_00 {
+	top: 328px;
+	left: 205px;
+	width: 92px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#FF3D00;
+}
+
+
+#wawa_3 {
+	top: 111px;
+	left: 6px;
+	width: 141px;
+	height: 114px;
+}
+
+
+#estimated_delivery {
+	top: 136px;
+	left: 153px;
+	width: 181px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#today___10_20_am {
+	top: 176px;
+	left: 151px;
+	width: 225px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#note {
+	top: 434px;
+	left: 30px;
+	width: 59px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_10 {
+	top: 507px;
+	left: 33px;
+	width: 347px;
+	height: 167px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_3 {
+	top: 492px;
+	left: 30px;
+	width: 354px;
+	height: 204px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #8b8585;
+	background:rgba(255,255,255,1);
+}
+
+
+#type_your_note_here_ {
+	top: 503px;
+	left: 52px;
+	width: 202px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#807676;
+}
+
+
+#rectangle {
+	top: 789px;
+	left: 39px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#__300_00_ek1 {
+	top: 818px;
+	left: 43px;
+	width: 90px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#add_to_cart {
+	top: 804px;
+	left: 246px;
+	width: 121px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_1_item {
+	top: 794px;
+	left: 52px;
+	width: 60px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 15px;
+	text-align: center;
+	color:#E2580A;
+}
+
+
+#cannelloni_with_basil_tomato_sauce_2_3 {
+	top: 287px;
+	left: 30px;
+	width: 161px;
+	height: 105px;
+}
+
+
+#orders_ek1 {
+	top: 55px;
+	left: 147px;
+	width: 140px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#FF490F;
+}
+
+#remove_circle_outline_ek1 {
+	top: 364px;
+	left: 279px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#vector_ek5 {
+	top: 2px;
+	left: 2px;
+	width: 20px;
+	height: 20px;
+}
+
+#add_circle_outline_ek1 {
+	top: 364px;
+	left: 340px;
+	width: 24px;
+	height: 24px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 24px;
+	height: 24px;
+}
+
+
+#vector_ek7 {
+	top: 2px;
+	left: 2px;
+	width: 20px;
+	height: 20px;
+}
+
+
+#italian_spaghetti_ek1 {
+	top: 292px;
+	left: 205px;
+	width: 163px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_1_ek1 {
+	top: 362px;
+	left: 316px;
+	width: 29px;
+	height: 46.5px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__300_00_ek2 {
+	top: 328px;
+	left: 205px;
+	width: 92px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#FF3D00;
+}
+
+
+#wawa_4 {
+	top: 111px;
+	left: 6px;
+	width: 141px;
+	height: 114px;
+}
+
+
+#estimated_delivery_ek1 {
+	top: 136px;
+	left: 153px;
+	width: 181px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#today___10_20_am_ek1 {
+	top: 176px;
+	left: 151px;
+	width: 225px;
+	height: 51.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#note_ek1 {
+	top: 434px;
+	left: 30px;
+	width: 59px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_11 {
+	top: 507px;
+	left: 33px;
+	width: 347px;
+	height: 167px;
+	background:rgba(255,255,255,0);
+}
+
+
+#rectangle_12 {
+	top: 492px;
+	left: 30px;
+	width: 354px;
+	height: 204px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #8b8585;
+	background:rgba(255,255,255,1);
+}
+
+
+#type_your_note_here__ek1 {
+	top: 503px;
+	left: 52px;
+	width: 202px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#807676;
+}
+
+
+#_rectangle_ek1 {
+	top: 789px;
+	left: 39px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#__300_00_ek3 {
+	top: 818px;
+	left: 43px;
+	width: 90px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 16px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_add_to_cart_ek1 {
+	top: 804px;
+	left: 246px;
+	width: 121px;
+	height: 41px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#_1_item_ek1 {
+	top: 794px;
+	left: 52px;
+	width: 60px;
+	height: 30.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 15px;
+	text-align: center;
+	color:#E2580A;
+}
+
+
+
+/* Add your custom CSS here */

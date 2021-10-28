@@ -1,0 +1,211 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__welcome {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 892px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 892px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_1 {
+	top: 102.54px !important;
+	position: absolute !important;
+	left: 43px;
+	width: 327px;
+	height: 189.15px;
+	background:url(skins/_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_1.png);
+	background-size:cover;
+}
+
+
+#pandakikok {
+	top: 315.58px;
+	left: 101px;
+	width: 223px;
+	height: 63.82px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+
+#we_won_t_keep_you_waiting_for_long_ {
+	top: 356.4px;
+	left: 94px;
+	width: 234px;
+	height: 28.92px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 14px;
+	text-align: center;
+	color:#000000;
+}
+
+#_02__ui_elements_1__home_indicator_home_indicator___on_black {
+	top: 858.15px;
+	left: 19px;
+	width: 375px;
+	height: 33.85px;
+}
+#bars___home_indicator___on_light {
+	top: 19.91px;
+	left: 121px;
+	width: 134px;
+	height: 4.98px;
+}
+
+#home_indicator {
+	top: 0px;
+	left: 0px;
+	width: 134px;
+	height: 5px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+
+#_rectangle {
+	top: 732.71px;
+	left: 35px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(13.4,157.49,189.13,1);
+}
+
+
+#rectangle_ek1 {
+	top: 639.13px;
+	left: 34px;
+	width: 343px;
+	height: 43.8px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#rectangle_ek2 {
+	top: 639.13px;
+	left: 34px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#_rectangle_ek3 {
+	top: 639.13px;
+	left: 34px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#lorem_ipsum {
+	top: 446px;
+	left: 75px;
+	width: 273px;
+	height: 68.79px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#lorem_ipsum_dolor_sit_amet__consectetur_adipiscing_elit__risus_quam_placerat_et_sed_rhoncus_justo_porttitor__donec_nulla_pulvinar_nunc__habitant__consequat__sit_tellus_a_tincidunt_tincidunt_mattis_vivamus_sit_suspendisse__fermentum_risus_diam__sed_turpis_nec_elementum__in_ {
+	top: 492.79px;
+	left: 45px;
+	width: 326px;
+	height: 94.61px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 12px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#sign_in {
+	top: 653.07px;
+	left: 163px;
+	width: 92px;
+	height: 40.88px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 746.65px;
+	left: 160px;
+	width: 97px;
+	height: 40.88px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,486 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__drinks {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1677px;
+	background:rgba(0,128,128,1);
+}
+
+
+#rectangle_6 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 241px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#pandakikok {
+	top: 82px;
+	left: 151px;
+	width: 268px;
+	height: 79.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+
+#wawa_2 {
+	top: 27px;
+	left: 6px;
+	width: 141px;
+	height: 114px;
+}
+
+
+#drinks {
+	top: 165px;
+	left: 158px;
+	width: 119px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_previous_1 {
+	top: 24px;
+	left: 340px;
+	width: 50px;
+	height: 50px;
+}
+
+#frame_3 {
+	top: 198px;
+	left: 0px;
+	width: 414px;
+	height: 1479px;
+}
+#milkshake {
+	top: 742px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#milk_shake_p_180_00 {
+	top: 75px;
+	left: 19px;
+	width: 119px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#k_photo_recipes_2020_07_how_to_make_a_milkshake_at_home_2020_06_08_at_k19388_1 {
+	top: 40px;
+	left: 162px;
+	width: 185px;
+	height: 104px;
+}
+
+#watermelon {
+	top: 970px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#pineapple_juice_p_120_00 {
+	top: 59px;
+	left: 20px;
+	width: 139px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#shutterstock_347791016_jpg_1 {
+	top: 47px;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+	background:rgba(255,255,255,0);
+}
+
+
+#creamy_watermelon_smoothie_1 {
+	top: 47px;
+	left: 162px;
+	width: 185px;
+	height: 103px;
+}
+
+#chocolate {
+	top: 1190px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#pineapple_juice_p_120_00_ek1 {
+	top: 61px;
+	left: 19px;
+	width: 120px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#download_1 {
+	top: 47px;
+	left: 162px;
+	width: 185px;
+	height: 103.6px;
+}
+
+#frame_7 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1177px;
+}
+#frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 506px;
+}
+#pizza {
+	top: 76px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,229,60,1);
+}
+
+
+#cannelloni_p_300_00 {
+	top: 75px;
+	left: 18px;
+	width: 123px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek1 {
+	top: 299px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,229,60,1);
+}
+
+
+#tortellini_p_250_00 {
+	top: 75px;
+	left: 17px;
+	width: 101px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek2 {
+	top: 522px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(255,229,60,1);
+}
+
+
+#farfalle_p_500_00 {
+	top: 75px;
+	left: 17px;
+	width: 103px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#cannelloni_with_basil_tomato_sauce_2_2 {
+	top: 115px;
+	left: 185px;
+	width: 185px;
+	height: 103px;
+}
+
+
+#cheese_tortellini_in_garlic_butter_sauce_culinary_hill_square_e1579200909823_1 {
+	top: 337px;
+	left: 185px;
+	width: 185px;
+	height: 102px;
+}
+
+
+#farfalle_with_pancetta_peas_and_grana_padano_102698885_1 {
+	top: 567px;
+	left: 185px;
+	width: 185px;
+	height: 103px;
+}
+
+#mango {
+	top: 76px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#milk_tea_p_120_00 {
+	top: 75px;
+	left: 18px;
+	width: 96px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#mango_shake_1 {
+	top: 39px;
+	left: 162px;
+	width: 185px;
+	height: 103px;
+}
+
+#coke {
+	top: 298px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#coke_p_80_00 {
+	top: 75px;
+	left: 17px;
+	width: 90px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#diet_coke_helps_boost_coca_cola_s_brand_value_brand_finance_rankings_wrbm_large_1 {
+	top: 40px;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+}
+
+#milktea {
+	top: 521px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#chocolate_shake_p_140_00 {
+	top: 52px;
+	left: 22px;
+	width: 125px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#brown_sugar_1 {
+	top: 45px;
+	left: 162px;
+	width: 185px;
+	height: 103px;
+}
+
+
+
+/* Add your custom CSS here */

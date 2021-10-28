@@ -1,0 +1,391 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__sign_up {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 891px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 892px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+#_02__ui_elements_1__home_indicator_home_indicator___on_black {
+	top: 857.19px;
+	left: 19px;
+	width: 375px;
+	height: 34.72px;
+}
+#bars___home_indicator___on_light {
+	top: 20.42px;
+	left: 121px;
+	width: 134px;
+	height: 5.11px;
+}
+
+#home_indicator {
+	top: 0px;
+	left: 0px;
+	width: 134px;
+	height: 5px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+#_02__ui_elements_1__home_indicator_home_indicator___on_black_ek1 {
+	top: 857.19px;
+	left: 19px;
+	width: 375px;
+	height: 34.72px;
+}
+#bars___home_indicator___on_light_ek1 {
+	top: 20.42px;
+	left: 121px;
+	width: 134px;
+	height: 5.11px;
+}
+
+#home_indicator_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 134px;
+	height: 5px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(0,0,0,1);
+}
+
+
+#wawa_2 {
+	top: 49px !important;
+	position: absolute !important;
+	left: 66px;
+	width: 275px;
+	height: 255px;
+	background:url(skins/wawa_2.png);
+	background-size:cover;
+}
+
+
+#password {
+	top: 628px;
+	left: 86px;
+	width: 103px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#rectangle {
+	top: 722px;
+	left: 29px;
+	width: 348px;
+	height: 60px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#sign_in {
+	top: 738px;
+	left: 169px;
+	width: 93px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#rectangle_ek1 {
+	opacity:0;
+	top: 613px;
+	left: 36px;
+	width: 350px;
+	height: 62px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+#lock {
+	top: 630px;
+	left: 55px;
+	width: 25px;
+	height: 26px;
+}
+
+#vector {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 25px;
+	height: 26px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 1.08px !important;
+	position: absolute !important;
+	left: 4.17px;
+	width: 16.67px;
+	height: 22.75px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+
+#email {
+	top: 537px;
+	left: 86px;
+	width: 65px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#rectangle_ek2 {
+	opacity:0;
+	top: 426px;
+	left: 36px;
+	width: 350px;
+	height: 63px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#password_ek1 {
+	top: 628px;
+	left: 86px;
+	width: 103px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#rectangle_ek3 {
+	opacity:0;
+	top: 521px;
+	left: 37px;
+	width: 350px;
+	height: 62px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#_rectangle_ek4 {
+	top: 722px;
+	left: 29px;
+	width: 348px;
+	height: 60px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(255,99.56,32.94,1);
+}
+
+
+#sign_in_ek1 {
+	top: 738px;
+	left: 169px;
+	width: 93px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#sign_up {
+	top: 347px;
+	left: 75px;
+	width: 276px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_ek5 {
+	opacity:0;
+	top: 613px;
+	left: 36px;
+	width: 350px;
+	height: 62px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #000000;
+	background:rgba(255,255,255,0);
+}
+
+
+#username {
+	top: 444px;
+	left: 86px;
+	width: 110px;
+	height: 43px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: center;
+	color:#555353;
+}
+
+
+#shape {
+	top: 444.99px !important;
+	position: absolute !important;
+	left: 56.38px;
+	width: 22.31px;
+	height: 26.3px;
+	background:url(skins/shape.png);
+	background-size:cover;
+}
+
+#lock_ek1 {
+	top: 630px;
+	left: 55px;
+	width: 25px;
+	height: 26px;
+}
+
+#vector_ek2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 25px;
+	height: 26px;
+	background:url(skins/vector_ek2.png);
+	background-size:cover;
+}
+
+
+#vector_ek3 {
+	top: 1.08px !important;
+	position: absolute !important;
+	left: 4.17px;
+	width: 16.67px;
+	height: 22.75px;
+	background:url(skins/vector_ek3.png);
+	background-size:cover;
+}
+
+
+#_already_have__sign_in_with_your_account {
+	top: 809px;
+	left: 104px;
+	width: 214px;
+	height: 36.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 17px;
+	text-align: center;
+	color:#000000;
+}
+
+#email_ek1 {
+	top: 538px;
+	left: 54px;
+	width: 25px;
+	height: 26px;
+}
+
+#vector_ek4 {
+	top: 4.33px !important;
+	position: absolute !important;
+	left: 2.08px;
+	width: 20.83px;
+	height: 17.33px;
+	background:url(skins/vector_ek4.png);
+	background-size:cover;
+}
+
+
+#vector_ek5 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 25px;
+	height: 26px;
+	background:url(skins/vector_ek5.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */

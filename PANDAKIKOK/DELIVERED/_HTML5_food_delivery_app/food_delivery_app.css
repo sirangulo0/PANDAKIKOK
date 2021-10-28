@@ -1,0 +1,198 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__delivered {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 896px;
+	background:#;
+}
+
+
+#rectangle_4 {
+	top: 3px;
+	left: 0px;
+	width: 414px;
+	height: 889.47px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#delivered_ {
+	top: 401px;
+	left: 62px;
+	width: 323px;
+	height: 93px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 32px;
+	margin-top: -32px;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	text-shadow: 0 0 2px #000000;
+	color:#FF490F;
+}
+
+#frame_9 {
+	top: 45px;
+	left: 137px;
+	width: 20px;
+	height: 38px;
+}
+
+#_367_3674987_enjoy_quality_restaurant_meals_within_sulthan_bathery_food_1 {
+	top: 105px;
+	left: 44px;
+	width: 327px;
+	height: 189.15px;
+}
+
+
+#your_food_have_been_successfully_delivered_ {
+	top: 457px;
+	left: 60px;
+	width: 307px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 15px;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#rating {
+	top: 520px;
+	left: 159px;
+	width: 113px;
+	height: 39px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 12px;
+	margin-top: -12px;
+	color:#000000;
+}
+
+
+#rectangle_12 {
+	top: 621px;
+	left: 30px;
+	width: 354px;
+	height: 173px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #8b8585;
+	background:rgba(255,255,255,1);
+}
+
+
+#type_your_feedback_here_ {
+	top: 641px;
+	left: 53px;
+	width: 183px;
+	height: 28.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 15px;
+	text-align: left;
+	line-height: 18px;
+	color:#000000;
+}
+
+
+#star {
+	top: 565px;
+	left: 95px;
+	width: 32px;
+	height: 42px;
+}
+
+
+#star_ek1 {
+	top: 565px;
+	left: 143px;
+	width: 32px;
+	height: 42px;
+}
+
+
+#star_ek2 {
+	top: 565px;
+	left: 191px;
+	width: 32px;
+	height: 42px;
+}
+
+
+#star_ek3 {
+	top: 565px;
+	left: 239px;
+	width: 32px;
+	height: 42px;
+}
+
+
+#star_ek4 {
+	top: 565px;
+	left: 287px;
+	width: 32px;
+	height: 42px;
+}
+
+
+#_rectangle {
+	top: 806px;
+	left: 36px;
+	width: 343px;
+	height: 54.75px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#_complete {
+	top: 824px;
+	left: 162px;
+	width: 106px;
+	height: 32px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 2px;
+	margin-top: -2px;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

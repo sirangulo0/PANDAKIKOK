@@ -1,0 +1,427 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__snacks {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1677px;
+	background:rgba(0,128,128,1);
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 241px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#snacks {
+	top: 164px;
+	left: 151px;
+	width: 133px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_previous_1 {
+	top: 27px !important;
+	position: absolute !important;
+	left: 345px;
+	width: 49px;
+	height: 44px;
+	background:url(skins/_previous_1.png);
+	background-size:cover;
+}
+
+
+#pandakikok {
+	top: 78px;
+	left: 141px;
+	width: 268px;
+	height: 79.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+
+#wawa_2 {
+	top: 27px !important;
+	position: absolute !important;
+	left: 6px;
+	width: 141px;
+	height: 114px;
+	background:url(skins/wawa_2.png);
+	background-size:cover;
+}
+
+#frame_4 {
+	top: 241px;
+	left: 0px;
+	width: 414px;
+	height: 1436px;
+}
+#frame_3 {
+	top: -39px;
+	left: 0px;
+	width: 414px;
+	height: 694px;
+}
+#frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1475px;
+}
+#pizza {
+	top: 76px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#beef___mushroom {
+	top: 38px;
+	left: 19px;
+	width: 122px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#p_200_00 {
+	top: 111px;
+	left: 19px;
+	width: 101px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#cheese_1 {
+	top: 39px !important;
+	position: absolute !important;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+	background:url(skins/cheese_1.png);
+	background-size:cover;
+}
+
+#pizza_ek1 {
+	top: 299px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#margherita {
+	top: 51px;
+	left: 17px;
+	width: 126px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#p_350_00 {
+	top: 111px;
+	left: 17px;
+	width: 102px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#veggie_pizza_8_720x405_1 {
+	top: 38px !important;
+	position: absolute !important;
+	left: 162px;
+	width: 185px;
+	height: 103px;
+	background:url(skins/veggie_pizza_8_720x405_1.png);
+	background-size:cover;
+}
+
+#pizza_ek2 {
+	top: 522px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#pepperoni {
+	top: 60px;
+	left: 17px;
+	width: 117px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#p_220_00 {
+	top: 112px;
+	left: 17px;
+	width: 104px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#shutterstock_514457074_jpg_1 {
+	top: 38px !important;
+	position: absolute !important;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+	background:url(skins/shutterstock_514457074_jpg_1.png);
+	background-size:cover;
+}
+
+#pizza_ek3 {
+	top: 745px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#shutterstock_548340295_jpg_1 {
+	top: 38px !important;
+	position: absolute !important;
+	left: 162px;
+	width: 185px;
+	height: 103px;
+	background:url(skins/shutterstock_548340295_jpg_1.png);
+	background-size:cover;
+}
+
+
+#ham____cheese {
+	top: 38px;
+	left: 26px;
+	width: 91px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#p_250_00 {
+	top: 111px;
+	left: 20px;
+	width: 101px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek4 {
+	top: 968px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#capricciosa_p_210_00 {
+	top: 59px;
+	left: 19px;
+	width: 136px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#shutterstock_347791016_jpg_1 {
+	top: 47px !important;
+	position: absolute !important;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+	background:url(skins/shutterstock_347791016_jpg_1.png);
+	background-size:cover;
+}
+
+#pizza_ek5 {
+	top: 1191px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#chicken____barbecue_p_300_00 {
+	top: 53px;
+	left: 26px;
+	width: 122px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#shutterstock_184944413_jpg_1 {
+	top: 1238px !important;
+	position: absolute !important;
+	left: 185px;
+	width: 185px;
+	height: 102px;
+	background:url(skins/shutterstock_184944413_jpg_1.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */

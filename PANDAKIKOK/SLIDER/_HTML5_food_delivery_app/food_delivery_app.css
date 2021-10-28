@@ -1,0 +1,84 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 334px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__test {
+	top: 0px;
+	left: 0px;
+	width: 334px;
+	height: 896px;
+	background:rgba(0,128,128,1);
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 334px;
+	height: 892px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#contact_us {
+	top: 208px;
+	left: 155px;
+	width: 186px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#about_us {
+	top: 163px;
+	left: 187px;
+	width: 154px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_previous_1 {
+	top: 49px !important;
+	position: absolute !important;
+	left: 271px;
+	width: 50px;
+	height: 50px;
+	background:url(skins/_previous_1.png);
+	background-size:cover;
+}
+
+
+#_logout {
+	top: 118px;
+	left: 219px;
+	width: 122px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

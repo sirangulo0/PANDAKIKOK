@@ -1,0 +1,354 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__dish {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1677px;
+	background:rgba(0,128,128,1);
+}
+
+
+#rectangle_5 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 241px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#wawa_2 {
+	top: 27px;
+	left: 6px;
+	width: 141px;
+	height: 114px;
+}
+
+
+#main_dishes {
+	top: 164px;
+	left: 114px;
+	width: 207px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_previous_1 {
+	top: 19px;
+	left: 345px;
+	width: 50px;
+	height: 50px;
+}
+
+
+#pandakikok {
+	top: 82px;
+	left: 151px;
+	width: 268px;
+	height: 79.5px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #2e9fa6;
+	text-shadow: 0 0 2px #2e9fa6;
+	color:#FF480E;
+}
+
+#frame_3 {
+	top: 197px;
+	left: 0px;
+	width: 414px;
+	height: 1480px;
+}
+#frame_2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 686px;
+}
+#pizza {
+	top: 76px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#italian_spaghetti_p_300_00 {
+	top: 52px;
+	left: 28px;
+	width: 112px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek1 {
+	top: 299px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#lasagna_p_250_00 {
+	top: 75px;
+	left: 17px;
+	width: 101px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek2 {
+	top: 522px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#fiorentina_steak_p_500_00 {
+	top: 52px;
+	left: 28px;
+	width: 120px;
+	height: 104px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek3 {
+	top: 745px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#polenta_p_400_00 {
+	top: 75px;
+	left: 19px;
+	width: 104px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+#pizza_ek4 {
+	top: 968px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#ossobuco_p_450_00 {
+	top: 83px;
+	left: 19px;
+	width: 116px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#shutterstock_347791016_jpg_1 {
+	top: 47px;
+	left: 162px;
+	width: 185px;
+	height: 102px;
+	background:rgba(255,255,255,0);
+}
+
+#pizza_ek5 {
+	top: 1191px;
+	left: 23px;
+	width: 367px;
+	height: 180px;
+}
+
+#rectangle_7_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 367px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#carbonara_p_300_00 {
+	top: 83px;
+	left: 17px;
+	width: 126px;
+	height: 74px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color:#404040;
+}
+
+
+#_cannelloni_with_basil_tomato_sauce_2_2 {
+	top: 113px;
+	left: 185px;
+	width: 185px;
+	height: 105px;
+}
+
+
+#cheese_tortellini_in_garlic_butter_sauce_culinary_hill_square_e1579200909823_1 {
+	top: 337px;
+	left: 185px;
+	width: 185px;
+	height: 102px;
+}
+
+
+#farfalle_with_pancetta_peas_and_grana_padano_102698885_1 {
+	top: 567px;
+	left: 185px;
+	width: 185px;
+	height: 103px;
+}
+
+
+#conchiglie_pesto_cream_sauce_1 {
+	top: 791px;
+	left: 185px;
+	width: 185px;
+	height: 102px;
+}
+
+
+#asian_vermicelli_stir_fry_final_1_1 {
+	top: 1015px;
+	left: 185px;
+	width: 185px;
+	height: 103px;
+}
+
+
+#fettuccine_alfredo_recipe_1_1 {
+	top: 1245px;
+	left: 185px;
+	width: 185px;
+	height: 102px;
+}
+
+
+
+/* Add your custom CSS here */

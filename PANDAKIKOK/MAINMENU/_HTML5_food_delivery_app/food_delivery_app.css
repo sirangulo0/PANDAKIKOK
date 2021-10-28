@@ -1,0 +1,428 @@
+/*
+	@name food_delivery_app
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px;  margin-left: auto; margin-right: auto;  }
+
+#_bg__mainmenu {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 896px;
+	background:#;
+}
+
+
+#rectangle_2 {
+	top: 0px;
+	left: -2px;
+	width: 414px;
+	height: 896px;
+	background:rgba(228.44,121.38,87.57,1);
+}
+
+
+#rectangle_4 {
+	top: 70px;
+	left: 48px;
+	width: 272px;
+	height: 48px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #818181;
+	background:rgba(255,255,255,1);
+}
+
+
+#search_your_food_here {
+	top: 83px;
+	left: 87px;
+	width: 143px;
+	height: 42.93px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 13px;
+	text-align: left;
+	line-height: 18px;
+	color:#9A9A9A;
+}
+
+#hamburger {
+	top: 73px;
+	left: 352px;
+	width: 45px;
+	height: 42px;
+}
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 45px;
+	height: 10px;
+	background:rgba(64,64,64,1);
+}
+
+
+#rectangle_5 {
+	top: 16px;
+	left: 0px;
+	width: 45px;
+	height: 10px;
+	background:rgba(64,64,64,1);
+}
+
+
+#rectangle_6 {
+	top: 32px;
+	left: 0px;
+	width: 45px;
+	height: 10px;
+	background:rgba(64,64,64,1);
+}
+
+
+#categories {
+	top: 164px;
+	left: 24px;
+	width: 186px;
+	height: 66px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#popular_today {
+	top: 537px;
+	left: 113px;
+	width: 210px;
+	height: 50.5px;
+	overflow: hidden;
+	font-family: Playfair Display SC;
+	font-size: 25px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#rectangle_7 {
+	top: 240px;
+	left: 147px;
+	width: 115px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#pizza_slice_1 {
+	top: 284px !important;
+	position: absolute !important;
+	left: 170px;
+	width: 70px;
+	height: 71.54px;
+	background:url(skins/pizza_slice_1.png);
+	background-size:cover;
+}
+
+
+#snacks {
+	top: 363px;
+	left: 170px;
+	width: 86px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#rectangle_7_ek1 {
+	top: 240px;
+	left: 18px;
+	width: 115px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#dishes {
+	top: 363px;
+	left: 47px;
+	width: 81px;
+	height: 44px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#spaguetti_1 {
+	top: 286px !important;
+	position: absolute !important;
+	left: 41px;
+	width: 70px;
+	height: 70px;
+	background:url(skins/spaguetti_1.png);
+	background-size:cover;
+}
+
+
+#rectangle_7_ek2 {
+	top: 240px;
+	left: 276px;
+	width: 115px;
+	height: 180px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	background:rgba(42.9,201.88,192.34,1);
+}
+
+
+#drinks___extras {
+	top: 363px;
+	left: 300px;
+	width: 78px;
+	height: 56.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	text-align: center;
+	color:#404040;
+}
+
+
+#drink_1 {
+	top: 270px !important;
+	position: absolute !important;
+	left: 286px;
+	width: 92px;
+	height: 86px;
+	background:url(skins/drink_1.png);
+	background-size:cover;
+}
+
+#pasta_whole_box {
+	top: 585px;
+	left: 25px;
+	width: 366px;
+	height: 244px;
+}
+
+#rectangle_8 {
+	top: 0px;
+	left: 0px;
+	width: 368px;
+	height: 246px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	background:rgba(225.51,246.5,96.55,1);
+}
+
+#frame_8 {
+	top: 36px;
+	left: 19px;
+	width: 142px;
+	height: 96px;
+}
+
+#italian_spaghetti {
+	top: 10px;
+	left: 10px;
+	width: 140px;
+	height: 93.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#404040;
+}
+
+
+#rectangle_9 {
+	top: 138px;
+	left: 29px;
+	width: 119px;
+	height: 57px;
+	-ms-border-radius: 50px;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #000000;
+	-ms-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.5);
+	-o-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.5);
+	-webkit-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.5);
+	-moz-box-shadow:0px 4px 10px 1px rgba(0,0,0,0.5);
+	box-shadow:0px 4px 10px 1px rgba(0,0,0,0.5);
+	background:rgba(255,229,60,1);
+}
+
+#stars {
+	top: 146px;
+	left: 38px;
+	width: 99px;
+	height: 20px;
+}
+
+#star_1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/star_1.png);
+	background-size:cover;
+}
+
+
+#star_2 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 20px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/star_2.png);
+	background-size:cover;
+}
+
+
+#star_3 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 40px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/star_3.png);
+	background-size:cover;
+}
+
+
+#star_4 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 60px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/star_4.png);
+	background-size:cover;
+}
+
+
+#star_5 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 79px;
+	width: 20px;
+	height: 20px;
+	background:url(skins/star_5.png);
+	background-size:cover;
+}
+
+
+#mask_popular {
+	top: 42px !important;
+	position: absolute !important;
+	left: 184px;
+	width: 160px;
+	height: 160px;
+	background:url(skins/mask_popular.png);
+	background-size:cover;
+}
+
+
+#_5_0_rate {
+	top: 162px;
+	left: 47px;
+	width: 98px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: left;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	text-shadow: 0 0 2px #000000;
+	color:#404040;
+}
+
+
+#welcome__guest {
+	top: 32px;
+	left: 120px;
+	width: 247px;
+	height: 36px;
+	overflow: hidden;
+	font-family: Open Sans;
+	font-size: 20px;
+	text-align: left;
+	line-height: 18px;
+	padding-top: 2px;
+	margin-top: -2px;
+	color:#000000;
+}
+
+#search {
+	top: 83px;
+	left: 60px;
+	width: 17px;
+	height: 21px;
+}
+
+#vector {
+	top: 2.63px !important;
+	position: absolute !important;
+	left: 2.13px;
+	width: 12.39px;
+	height: 15.3px;
+	background:url(skins/vector.png);
+	background-size:cover;
+}
+
+
+#vector_ek1 {
+	top: 0px !important;
+	position: absolute !important;
+	left: 0px;
+	width: 17px;
+	height: 21px;
+	background:url(skins/vector_ek1.png);
+	background-size:cover;
+}
+
+
+
+/* Add your custom CSS here */
